@@ -1,4 +1,4 @@
-
+![](https://github.com/K1bbeh/K1bbeh/blob/main/spherewave.gif)
 
 <!--
 **K1bbeh/K1bbeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
