@@ -1,6 +1,6 @@
 <h1>Hello!</h1>
 
-![](https://github.com/K1bbeh/K1bbeh/blob/main/IamProgrammerEnglish.png)
+<img src="https://github.com/K1bbeh/K1bbeh/blob/main/IamProgrammerEnglish.png" width="500">
 
 <h1>Languages</h1>
 <p float="left">
